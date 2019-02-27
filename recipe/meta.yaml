@@ -1,6 +1,6 @@
 {% set name = "python-fitparse" %}
-{% set version = "1.0.1" %}
-{% set sha256 = "6fc87817798c57928b556fa5a44616709b9de907f199cda51375cb4ae6266cec" %}
+{% set version = "1.1.0" %}
+{% set sha256 = "aab485728b1aec2a35545cc59b6c5093828601b0541c478b5f338fe881cab3a4" %}
 
 package:
   name: {{ name|lower }}
